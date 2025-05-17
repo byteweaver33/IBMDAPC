@@ -1,1 +1,2 @@
-# IBMDAPC
+# My Mission
+I want to develop a strong command of the technical skills needed to efficiently gather, clean, wrangle, mine, and visualize data, while also honing the soft skills essential for collaborating with stakeholders and crafting compelling data narratives that truly engage my audience.  My goal is to not only extract valuable insights but also to communicate them effectively, ensuring that my analysis drives meaningful decisions and resonates with those who rely on the data.
